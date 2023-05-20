@@ -1,5 +1,5 @@
-train: ./PersonCar/images/train
-val: ./PersonCar/images/val
+train: ./personcartest/PersonCar/images/train
+val: ./personcartest/PersonCar/images/val
 
 nc: 7
 names: ['person', 'bicycle', 'car', 'motorcycle', 'bus', 'truck', 'train']
